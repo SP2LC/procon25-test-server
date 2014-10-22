@@ -1,0 +1,58 @@
+
+#header {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#footer {
+    margin: 50px auto;
+    width: 900px;
+}
+
+.title {
+    font-size: 24pt;
+}
+
+.brd {
+    border-bottom: 2px #0000ff solid;
+}
+
+th {
+    background-color: #8888ff;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+#image {
+    position: float;
+}
+
+#info {
+    width: 450px;
+    float: left;
+}
+
+#tweet {
+    width: 450px;
+    float: left;
+}
+
+.update1 {
+    background-color: #ff8888;
+}
+
+.update2 {
+    background-color: #88ff88;
+}
+
+.red {
+  background-color: #ff6347;
+}
